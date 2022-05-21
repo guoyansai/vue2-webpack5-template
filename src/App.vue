@@ -1,19 +1,17 @@
 <template>
-  <div id="app">
-  </div>
+  <div id="app"><h1>Hello AsaiCC，欢迎使用webpack5 + vue2！</h1></div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: "App",
   components: {},
   data() {
     return {};
   },
   computed: {},
   watch: {},
-  methods: {}
+  methods: {},
 };
 </script>
 <style lang="scss" scoped>
